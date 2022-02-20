@@ -1,0 +1,18 @@
+Title: Coconut Insurgency
+Description: (from White Russian Cocktail)
+Source: Allrecipes.com
+Original URL: http://allrecipes.com/recipe/222900/white-russian-cocktail/
+Yield: 1 servings
+Active: 5 minutes
+Total: 5 minutes
+Image: https://cdn2.pepperplate.com/recipes/55ac68c3ce3e40d7b1caa73d1279107f.jpg
+Ingredients:
+	2 fluid ounces vodka
+	1 fluid ounce coffee-flavored liqueur
+	1 cup ice
+	xxxxx 1 fluid ounce heavy cream
+	1 fluid ounce coconut milk
+
+Instructions:
+	Combine vodka, coffee liqueur, and ice in an old-fashioned glass. Pour in cream, over back of spoon..
+
